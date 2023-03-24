@@ -1,0 +1,26 @@
+.outherDiv > span >svg{
+    font-size: 100px;
+}
+
+.outherDiv > span > span{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.imageDiv > svg {
+    font-size: 150px;
+}
+
+.imageDiv > svg {
+    fill: #ffffff;
+    margin-bottom: 20px;
+}
+
+.imageDiv > a{
+    text-decoration: none !important;
+}
+
+.imageDiv > a > button {
+    width: 200px;
+}

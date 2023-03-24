@@ -1,0 +1,36 @@
+.navbar {
+    background-color: rgba(0, 0, 0, 0.3); /* Set the background color to black with 70% opacity */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px; /* Set the height of the navbar */
+    padding: 0 20px; /* Add padding to the left and right of the navbar */
+  }
+  
+  .navbar-logo {
+    color: #fff; /* Set the font color to white */
+    font-size: 24px; /* Set the font size */
+    font-weight: bold; /* Set the font weight */
+    text-decoration: none; /* Remove the underline */
+  }
+  
+  .navbar-menu {
+    list-style: none; /* Remove the bullet points from the list */
+    margin: 0; /* Remove the default margin */
+    padding: 0; /* Remove the default padding */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  .navbar-menu li {
+    margin-left: 20px; /* Add space between the menu items */
+  }
+  
+  .navbar-menu li a {
+    color: #fff; /* Set the font color to white */
+    text-decoration: none; /* Remove the underline */
+    font-size: 16px; /* Set the font size */
+    font-weight: bold; /* Set the font weight */
+  }
+  
